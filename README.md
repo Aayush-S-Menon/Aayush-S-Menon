@@ -26,5 +26,5 @@ I am consistently expanding my technical depth, currently focusing on advanced d
 I am a major advocate for high-performance hardware and optimizing multi-tasking setups. When I am not building automation scripts or tweaking my environment, I'm usually doing deep work accompanied by classical Indian flute, sitar, or ambient instrumental music.
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn URL]
-* **Portfolio/Email:** [Your Email]
+* **LinkedIn:** www.linkedin.com/in/aayush-sajan-menon
+* **Portfolio/Email:** aayushsmenon123@gmail.com
